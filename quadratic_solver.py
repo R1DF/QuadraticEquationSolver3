@@ -65,6 +65,7 @@ def format_equation(coefficients):
     return result + " = 0"
 
 # Introduction and selecting result type
+os.system("title R1DF's Quadratic Equation Solver 3.0")
 clear()
 print("Welcome to R1DF's simplified quadratic equation solver.\n"
       "Which mode would you like to select to solve with:\n"

@@ -15,3 +15,7 @@ _Note: An executable file only exists for Windows versions._<br><br>
 1. Check the Releases section of the repository.
 2. Click on the latest (probably the only) published release.
 3. Download the `.exe` file in the specified release.
+
+## Notes
+1. I don't accept any PRs to this repository. It's just a simple quadratic equation solver.<br>
+2. If you wish to download the source code and test it, the oldest Python version that this will run on is 3.6.
